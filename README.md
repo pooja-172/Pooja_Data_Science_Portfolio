@@ -7,5 +7,5 @@ As I continue to learn and grow in my field, I am excited to collaborate with ot
 <link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
 
 ### Technical Skills
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,c,java,r,html,css,mysql,tensorflow,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,c,java,r,html,css,mysql,tensorflow,vscode,arduino)](https://skillicons.dev)
 
