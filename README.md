@@ -7,6 +7,6 @@ As I continue to learn and grow in my field, I am excited to collaborate with ot
 <link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
 
 ### Technical Skills
-Programming Languages: <i class="programming lang-cpp"></i><i class="programming lang-python"></i>
+Programming Languages: [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 </body>
